@@ -2,11 +2,11 @@
 // false berarti off
 
 export default {
-  anticall: true,
+  anticall: false,
   readsw: true,
   reactsw: false,
   readchat: false,
-  autotyping: true,
+  autotyping: false,
   online: false,
   emoji: ["❤️", "💛", "💚", "💙", "💜"],
 }
